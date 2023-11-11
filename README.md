@@ -1,4 +1,8 @@
-<h2 style="font-size: 24px;">👋Hi, I'm Md. Torikul Islam Lipon! 🛡️<br/><a href="YOUR_LINKEDIN_PROFILE" style="font-size: 18px;">Ethical Hacker</a> | <a href="YOUR_YOUTUBE_PROFILE" style="font-size: 18px;">Penetration Tester</a> | <a href="YOUR_TWITTER_PROFILE" style="font-size: 18px;">Bug Bounty Hunter</a> | <a href="YOUR_LINKEDIN_PROFILE" style="font-size: 18px;">CTF Player</a> | <a href="YOUR_LINKEDIN_PROFILE" style="font-size: 18px;">Offensive Security Consultant ⚔ (Red Team Operator)</a> | <a href="YOUR_LINKEDIN_PROFILE" style="font-size: 18px;">Information Security Analyst</a> | <a href="YOUR_LINKEDIN_PROFILE" style="font-size: 18px;">OSINT Investigator</a> | <a href="YOUR_GITHUB_PROFILE" style="font-size: 18px;">Computer Science Student 🎓</a> </h2>
+<h1 align="center">Hi 👋, I'm Md. Torikul Islam Lipon! 🛡️</h1>
+<h3 align="center">A passionate ethical hacker & pentester from Bangladesh</h3>
+
+<h3 align="center">Ethical Hacker | Penetration Tester | Bug Bounty Hunter | CTF Player | Offensive Security Consultant ⚔ (Red Team Operator) | Information Security Analyst | OSINT Investigator | Computer Science Student 🎓</h3>
+<h4>IT Professional with strong interest in ethical hacking, penetration testing, vulnerability analysis, and network security. Hard-working, energetic, personable, and technical-minded individual. Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly.🌐 Let's connect to explore collaboration opportunities and fortify your digital security. 🚀</h4>
 
 <h2>👨‍💻 Core Technical Skills:</h2>
 
@@ -40,3 +44,6 @@
 [<img align="left" alt="YourName | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](YOUR_TWITTER_PROFILE)
 [<img align="left" alt="YourName | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](YOUR_YOUTUBE_PROFILE)
 [<img align="left" alt="YourName | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](YOUR_GITHUB_PROFILE)
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=0xlipon&label=Profile%20views&color=0e75b6&style=flat" alt="0xlipon" /> </p>
+
