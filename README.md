@@ -21,24 +21,14 @@
 
 - <b>Project 1</b>
   - [Project 1 Name](Link to Project 1)
-- <b>Project 2</b>
-  - [Project 2 Name](Link to Project 2)
-- <b>Project 3</b>
-  - [Project 3 Name](Link to Project 3)
 
 <h2>🥇 Certifications:</h2>
 
-- [Certification 1](Link to Certification 1)
-- [Certification 2](Link to Certification 2)
-- [Certification 3](Link to Certification 3)
-
-<h2>📺 Latest YouTube Videos</h2>
-
-- [Video 1 Title](Link to Video 1)
-- [Video 2 Title](Link to Video 2)
-- [Video 3 Title](Link to Video 3)
-
-
+[Practical Ethical Hacking](https://drive.google.com/file/d/1VvpUb__ltUZUWDuHFpL5YSELBMQ5tJ5n/view?usp=sharing) </br>
+[Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/certificate/BHJQEGYCC5RF)  </br>
+[Technical Support Fundamentals](https://coursera.org/verify/QBHH9LKSEYXD)  </br></br>
+[Show more!](https://www.linkedin.com/in/0xlipon/details/certifications/) </br>
+ 
 ## 🛠️ Languages and Tools
 <p align="left"> <a href="https://github.com/0xlipon"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
 
