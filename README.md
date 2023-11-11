@@ -48,7 +48,7 @@
 </br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=0xlipon&label=Profile%20views&color=0e75b6&style=flat" alt="0xlipon" /> </p>
 </br>
-<h2>Donate Us:</h2>
+<h2>Donate me:</h2>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y">
 <img align="left" src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png"  width="20%" height="10%" alt="Donate with PayPal" />
 </a>
