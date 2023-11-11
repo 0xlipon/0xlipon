@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Torikul Islam Lipon! 🛡️</h1>
 <h3 align="center">A passionate ethical hacker & pentester from Bangladesh</h3>
 
-<h3 align="left">Ethical Hacker | Penetration Tester | Bug Bounty Hunter | CTF Player | Offensive Security Consultant ⚔ (Red Team Operator) | Information Security Analyst | OSINT Investigator | Computer Science Student 🎓</h3>
-<h4 align="left">IT Professional with strong interest in ethical hacking, penetration testing, vulnerability analysis, and network security. Hard-working, energetic, personable, and technical-minded individual. Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly.🚀</h4>
+<h2 align="left">Ethical Hacker | Penetration Tester | Bug Bounty Hunter | CTF Player | Offensive Security Consultant ⚔ (Red Team Operator) | Information Security Analyst | OSINT Investigator | Computer Science Student 🎓</h2>
+<h3 align="left">IT Professional with strong interest in ethical hacking, penetration testing, vulnerability analysis, and network security. Hard-working, energetic, personable, and technical-minded individual. Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly.🚀</h3>
 
 <h2>👨‍💻 Core Technical Skills:</h2>
 
