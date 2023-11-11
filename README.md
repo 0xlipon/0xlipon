@@ -26,7 +26,7 @@
 - <b>Project 3</b>
   - [Project 3 Name](Link to Project 3)
 
-<h2>📜 Certifications:</h2>
+<h2>🥇 Certifications:</h2>
 
 - [Certification 1](Link to Certification 1)
 - [Certification 2](Link to Certification 2)
