@@ -2,7 +2,7 @@
 <h3 align="center">A passionate ethical hacker & pentester from Bangladesh</h3>
 
 <h3 align="left">Ethical Hacker | Penetration Tester | Bug Bounty Hunter | CTF Player | Offensive Security Consultant ⚔ (Red Team Operator) | Information Security Analyst | OSINT Investigator | Computer Science Student 🎓</h2>
-<p align="left"><b></b>IT Professional with strong interest in ethical hacking, penetration testing, vulnerability analysis, and network security. Hard-working, energetic, personable, and technical-minded individual. Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly.🚀<b></p>
+<p align="left">IT Professional with strong interest in ethical hacking, penetration testing, vulnerability analysis, and network security. Hard-working, energetic, personable, and technical-minded individual. Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly. 🌐 Let's connect to explore collaboration opportunities and fortify your digital security. 🚀</p>
 
 <h2>👨‍💻 Core Technical Skills:</h2>
 
