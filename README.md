@@ -35,6 +35,7 @@
 ## 🙏 Support on KoFi:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7JKG27)
 
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="YourName | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](YOUR_LINKEDIN_PROFILE)
