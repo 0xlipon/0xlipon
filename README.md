@@ -2,7 +2,7 @@
 <h3 align="center">A passionate ethical hacker & pentester from Bangladesh</h3>
 
 <h3 align="center">Ethical Hacker | Penetration Tester | Bug Bounty Hunter | CTF Player | Offensive Security Consultant ⚔ (Red Team Operator) | Information Security Analyst | OSINT Investigator | Computer Science Student 🎓</h3>
-<h4>IT Professional with strong interest in ethical hacking, penetration testing, vulnerability analysis, and network security. Hard-working, energetic, personable, and technical-minded individual. Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly.🌐 Let's connect to explore collaboration opportunities and fortify your digital security.🚀</h4>
+<h4 align="center">IT Professional with strong interest in ethical hacking, penetration testing, vulnerability analysis, and network security. Hard-working, energetic, personable, and technical-minded individual. Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly.🚀</h4>
 
 <h2>👨‍💻 Core Technical Skills:</h2>
 
@@ -45,5 +45,10 @@
 [<img align="left" alt="YourName | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](YOUR_YOUTUBE_PROFILE)
 [<img align="left" alt="YourName | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](YOUR_GITHUB_PROFILE)
 
+</br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=0xlipon&label=Profile%20views&color=0e75b6&style=flat" alt="0xlipon" /> </p>
-
+</br>
+<h2>Donate Us:</h2>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y">
+<img align="left" src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png"  width="20%" height="10%" alt="Donate with PayPal" />
+</a>
