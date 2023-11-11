@@ -38,6 +38,13 @@
 - [Video 2 Title](Link to Video 2)
 - [Video 3 Title](Link to Video 3)
 
+
+## 🛠️ Languages and Tools
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
+
+## 🙏 Support on KoFi:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7JKG27)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="YourName | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](YOUR_LINKEDIN_PROFILE)
@@ -45,10 +52,6 @@
 [<img align="left" alt="YourName | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](YOUR_YOUTUBE_PROFILE)
 [<img align="left" alt="YourName | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](YOUR_GITHUB_PROFILE)
 
-</br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=0xlipon&label=Profile%20views&color=0e75b6&style=flat" alt="0xlipon" /> </p>
-</br>
-<h2>Donate me:</h2>
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y">
-<img align="left" src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png"  width="20%" height="10%" alt="Donate with PayPal" />
-</a>
+
+
