@@ -55,7 +55,7 @@
 
 [Practical Ethical Hacking](https://drive.google.com/file/d/1VvpUb__ltUZUWDuHFpL5YSELBMQ5tJ5n/view?usp=sharing) </br>
 [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/certificate/BHJQEGYCC5RF)  </br>
-[Technical Support Fundamentals](https://coursera.org/verify/QBHH9LKSEYXD)  </br></br>
+[Microsoft Cybersecurity Analyst]([https://coursera.org/verify/QBHH9LKSEYXD](https://www.coursera.org/account/accomplishments/specialization/SQL4DU4SEG7G))  </br></br>
 [Show more!](https://www.linkedin.com/in/0xlipon/details/certifications/) </br>
  
 ## 🛠️ Languages and Tools
