@@ -49,10 +49,11 @@
 
 
 
-<h2>🚀 Projects:</h2>
+<h2>🚀 Projects & Tools</h2>
 
 - <b>Project 1</b>
-  - [Project 1 Name](Link to Project 1)
+  - [Projects]https://github.com/0xlipon/Projects)
+- 
 
 <h2>🥇 Certifications:</h2>
 
