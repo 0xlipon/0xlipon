@@ -42,7 +42,7 @@
 
 👉 Seeking an Internship Opportunity at FAANG to Grow and Contribute
 
-`Updating:` On a Steadfast Path to Becoming a Cybersecurity Specialist with a Focus on Offensive Security 👀.
+`Updating:` Path to Becoming a Cybersecurity Specialist with a Focus on Offensive Security 👀.
 
 
 <h2>🚀 Projects & Tools</h2>
