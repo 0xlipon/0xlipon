@@ -71,10 +71,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="YourName | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](YOUR_LINKEDIN_PROFILE)
-[<img align="left" alt="YourName | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](YOUR_TWITTER_PROFILE)
-[<img align="left" alt="YourName | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](YOUR_YOUTUBE_PROFILE)
-[<img align="left" alt="YourName | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](YOUR_GITHUB_PROFILE)
+[<img align="left" alt="0xlipon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](0xlipon)
+[<img align="left" alt="0xlipon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](0xlipon)
+[<img align="left" alt="0xlipon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](0xlipon)
+[<img align="left" alt="0xlipon | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](0xlipon)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=0xlipon&label=Profile%20views&color=0e75b6&style=flat" alt="0xlipon" /> </p>
 
