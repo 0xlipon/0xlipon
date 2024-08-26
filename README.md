@@ -52,7 +52,7 @@
 <h2>🚀 Projects & Tools</h2>
 
 - <b>Project</b> ~ https://github.com/0xlipon/Projects
-- <b>Tools<b> ~ https://github.com/0xlipon?tab=repositories 
+- <b>Tools</b> ~ https://github.com/0xlipon?tab=repositories 
 
 
 <h2>🥇 Certifications:</h2>
