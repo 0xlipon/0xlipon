@@ -12,7 +12,6 @@
 <h3 align="center">On a Journey to become a great human being...<p align="right"></h3> -->
 
 <h2>👨‍💻 Core Technical Skills</h2>
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
 
 - Penetration Testing
 - Web Application Security
@@ -33,7 +32,7 @@
 
 <h2 id="present_status"> Present Status </h3>
 
-<img width="20%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
 
 👉 Still Learning Bug hunting & Programming.
 
