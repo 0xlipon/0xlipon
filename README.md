@@ -77,4 +77,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=0xlipon&label=Profile%20views&color=0e75b6&style=flat" alt="0xlipon" /> </p>
 
-
+<p align="center">
+  <b><i>"Never give up. Never back down."</i></b>
+</p>
