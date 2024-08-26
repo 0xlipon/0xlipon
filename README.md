@@ -36,13 +36,13 @@
 
 👉 Still Learning Bug hunting & Programming.
 
-👉 Looking for Internship Opportunity from FAANG.
-
 👉 Writing Some Useful Tools For Myself & Communities
 
 👉 Building & Contributing To Open Source Projects 
 
-`Updating:`  Journey to Cybersecurity Specialist👀.
+👉 Seeking an Internship Opportunity at FAANG to Grow and Contribute
+
+`Updating:` On a Steadfast Path to Becoming a Cybersecurity Specialist with a Focus on Offensive Security 👀.
 
 
 <h2>🚀 Projects & Tools</h2>
