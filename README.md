@@ -11,7 +11,6 @@
 <!--
 <h3 align="center">On a Journey to become a great human being...<p align="right"></h3> -->
 
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
 <h2>👨‍💻 Core Technical Skills:</h2>
 
 - <b>Penetration Testing</b>
@@ -24,6 +23,7 @@
 - <b>Incident Response</b>
 - <b>Malware Analysis</b>
 - <b>Forensic Analysis</b>
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
 
 <h2>🚀 Projects:</h2>
 
