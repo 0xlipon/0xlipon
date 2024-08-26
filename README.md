@@ -43,6 +43,7 @@
 
 `Updating:`  Journey to Cybersecurity Specialist👀.
 
+----------
 
 <h2>🚀 Projects:</h2>
 
