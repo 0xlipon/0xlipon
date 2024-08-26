@@ -71,7 +71,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="0xlipon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](0xlipon)
+[<img align="left" alt="0xlipon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([0xlipon](https://www.linkedin.com/in/0xlipon/))
 [<img align="left" alt="0xlipon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](0xlipon)
 [<img align="left" alt="0xlipon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](0xlipon)
 [<img align="left" alt="0xlipon | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](0xlipon)
