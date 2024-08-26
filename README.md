@@ -32,7 +32,7 @@
 
 <h2 id="present_status"> Present Status </h3>
 
-<img width="20%" align="right" src="https://drive.google.com/uc?export=view&id=1WYilf5EHDp7DIvp-CpZY8zxLoCibtIf3">
+<img width="25%" align="right" src="https://drive.google.com/uc?export=view&id=1WYilf5EHDp7DIvp-CpZY8zxLoCibtIf3">
 
 👉 Still Learning Bug hunting & Programming.
 
