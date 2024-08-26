@@ -13,8 +13,8 @@
 
 <h2>👨‍💻 Core Technical Skills:</h2>
 
-- <b>Penetration Testing</b><img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
-- <b>Web Application Security</b>
+- <b>Penetration Testing</b>
+- <b>Web Application Security</b<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
 - <b>Network Security</b>
 - <b>Security Assessment</b>
 - <b>Vulnerability Assessment</b>
