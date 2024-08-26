@@ -37,6 +37,8 @@
 
 👉 Still Learning Bug hunting & Programming.
 
+👉 Looking for Internship Opportunity from FAANG.
+
 👉 Writing Some Useful Tools For Myself & Communities
 
 👉 Building & Contributing To Open Source Projects 
