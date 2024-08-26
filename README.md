@@ -51,11 +51,17 @@
 - <b>Tools</b> ~ <a href="https://github.com/0xlipon?tab=repositories">https://github.com/0xlipon?tab=repositories</a>
 
 
-<h2>🥇 Certifications:</h2>
-
+<h2>🥇 Certifications:</h2
+                       
 [Practical Ethical Hacking](https://drive.google.com/file/d/1VvpUb__ltUZUWDuHFpL5YSELBMQ5tJ5n/view?usp=sharing) </br>
 [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/certificate/BHJQEGYCC5RF)  </br>
-[Microsoft Cybersecurity Analyst](https://www.coursera.org/account/accomplishments/specialization/SQL4DU4SEG7G))  </br>
+[Microsoft Cybersecurity Analyst](https://www.coursera.org/account/accomplishments/specialization/SQL4DU4SEG7G)  </br>
+[IBM Cybersecurity Analyst](https://www.coursera.org/account/accomplishments/specialization/TEXUQL7RHWWR)  </br>
+[Android Forensics with Belkasoft](https://belkasoft.thinkific.com/certificates/ddy8fgnlja)  </br>
+[API Penetration Testing](https://www.credly.com/badges/d5af5dbe-80fd-4dd5-912e-c3500b1c4822/public_url)  </br>
+[Penetration Testing and Ethical Hacking](https://app.cybrary.it/courses/api/certificate/CC-99d82e65-7bfb-46cc-814c-c2adb062a3ec/view)  </br>
+[Offensive Penetration Testing](https://app.cybrary.it/courses/api/certificate/CC-2e4b8beb-cd97-4bc8-8ed3-8b3a86d28bdc/view)  </br>
+
 [Show more!](https://www.linkedin.com/in/0xlipon/details/certifications/) </br>
  
 ## 🛠️ Languages and Tools
