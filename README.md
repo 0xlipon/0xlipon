@@ -32,7 +32,7 @@
 
 <h2 id="present_status"> Present Status </h3>
 
-<img width="20%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
+<img width="20%" align='right' src="[https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf](https://drive.google.com/file/d/1WYilf5EHDp7DIvp-CpZY8zxLoCibtIf3/view?usp=sharing)">
 
 👉 Still Learning Bug hunting & Programming.
 
