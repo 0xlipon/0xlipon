@@ -12,7 +12,7 @@
 <h3 align="center">On a Journey to become a great human being...<p align="right"></h3> -->
 
 <h2>👨‍💻 Core Technical Skills</h2>
-<img align="right" width="30%" src="https://i.imgur.com/1ToWEWw.png"/>
+<img align="right" width="20%" src="https://i.imgur.com/1ToWEWw.png"/>
 
 - Penetration Testing
 - Web Application Security
