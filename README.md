@@ -12,7 +12,6 @@
 <h3 align="center">On a Journey to become a great human being...<p align="right"></h3> -->
 
 <h2>👨‍💻 Core Technical Skills</h2>
-<img align="right" width="20%" src="https://i.imgur.com/1ToWEWw.png"/>
 
 - Penetration Testing
 - Web Application Security
@@ -50,6 +49,7 @@
 
 
 <h2>🚀 Projects & Tools</h2>
+<img align="right" width="20%" src="https://i.imgur.com/1ToWEWw.png"/>
 
 - <b>Projects</b> ~ https://github.com/0xlipon/Projects
 - <b>Tools</b>    ~ https://github.com/0xlipon?tab=repositories 
