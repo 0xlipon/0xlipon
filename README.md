@@ -49,10 +49,10 @@
 
 
 <h2>🚀 Projects & Tools</h2>
-<img align="right" width="20%" src="https://i.imgur.com/1ToWEWw.png"/>
 
 - <b>Projects</b> ~ https://github.com/0xlipon/Projects
 - <b>Tools</b>    ~ https://github.com/0xlipon?tab=repositories 
+<img align="right" width="20%" src="https://i.imgur.com/1ToWEWw.png"/>
 
 
 <h2>🥇 Certifications:</h2>
