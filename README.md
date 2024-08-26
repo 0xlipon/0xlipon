@@ -61,6 +61,8 @@
 [API Penetration Testing](https://www.credly.com/badges/d5af5dbe-80fd-4dd5-912e-c3500b1c4822/public_url)  </br>
 [Penetration Testing and Ethical Hacking](https://app.cybrary.it/courses/api/certificate/CC-99d82e65-7bfb-46cc-814c-c2adb062a3ec/view)  </br>
 [Offensive Penetration Testing](https://app.cybrary.it/courses/api/certificate/CC-2e4b8beb-cd97-4bc8-8ed3-8b3a86d28bdc/view)  </br>
+[Burp Suite Unfiltered](https://app.onlinecoursehost.com/certificate-proof/EWCMtAhS9bQgqAhVHuI5wJwrR5r1/S79dM2p471nfhasLKgMZ/4pY4e2LlqOYKiBaPCVV9cMFKH493)  </br>
+[Nessus Scanner](https://app.onlinecoursehost.com/certificate-proof/EWCMtAhS9bQgqAhVHuI5wJwrR5r1/QV4jBT57NaYfZamDQT3k/4pY4e2LlqOYKiBaPCVV9cMFKH493)  </br>
 
 [Show more!](https://www.linkedin.com/in/0xlipon/details/certifications/) </br>
  
