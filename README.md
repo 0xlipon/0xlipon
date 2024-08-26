@@ -12,6 +12,18 @@
 <h3 align="center">On a Journey to become a great human being...<p align="right"></h3> -->
 
 <h2>👨‍💻 Core Technical Skills:</h2>
+
+- Penetration Testing
+- Web Application Security
+- Network Security
+- Security Assessment
+- Vulnerability Assessment
+- Wireless Security
+- Exploit Development
+- Incident Response
+- Malware Analysis
+- Forensic Analysis
+
 <details>
   <summary>More about me</summary>
 
