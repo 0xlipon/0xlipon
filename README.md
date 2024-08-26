@@ -45,11 +45,13 @@
 `Updating:`  Journey to Cybersecurity Specialist👀.
 
 
-
 <h2>🚀 Projects & Tools</h2>
 
-- <b>Projects</b> ~ https://github.com/0xlipon/Projects
-- <b>Tools</b>    ~ https://github.com/0xlipon?tab=repositories 
+- <b>Projects</b> ~ <a href="https://github.com/0xlipon/Projects">https://github.com/0xlipon/Projects</a>
+- <b>Tools</b> ~ <a href="https://github.com/0xlipon?tab=repositories">https://github.com/0xlipon?tab=repositories</a>
+
+<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+
 
 
 <h2>🥇 Certifications:</h2>
