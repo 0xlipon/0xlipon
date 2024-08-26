@@ -27,10 +27,9 @@
 
 <details>
   <summary>Reach me out at: </summary>
--  **0xlipon@gmail.com**
+  - 0xlipon[at]gmail[dot]com
 </details>
 
----
 
 <h2 id="present_status"> Present Status </h3>
 
@@ -44,7 +43,6 @@
 
 `Updating:`  Journey to Cybersecurity Specialist👀.
 
----
 
 <h2>🚀 Projects:</h2>
 
