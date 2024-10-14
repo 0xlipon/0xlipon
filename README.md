@@ -11,6 +11,32 @@
 <!--
 <h3 align="center">On a Journey to become a great human being...<p align="right"></h3> -->
 
+<!-- Typing SVG -->
+  <img src="https://avatars.githubusercontent.com/u/158505616?v=4" align="left" width="50" height="50" alt="image"/>
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SecurityResearcher:
+
+    def __init__(self):
+        self.name = "Md. Torikul Islam Lipon"
+        self.role = "Security Researcher, Web Developer"
+        self.language_spoken = ["ml_BD", "en_US"]
+        self.portfolio = "https://github.com/0xlipon/portfolio"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Take a look around and see what exciting things I've been working on.")
+        print(f"Check out my portfolio at: {self.portfolio}")
+
+
+me = SecurityResearcher()
+me.say_hi()
+```
+<br>
+
 <h2>👨‍💻 Core Technical Skills</h2>
 
 - Penetration Testing
