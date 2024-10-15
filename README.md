@@ -41,7 +41,7 @@ me.say_hi()
 
   <!-- Knowledge & Skills -->
 <p align="left" style="display: flex; align-items: center;">
-  <a href="https://x.com/1hehaq"><img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" width="50" height="50" alt="image" style="margin-right: 50px;"/></a>
+  <a href="https://x.com/0xlipon"><img src="https://avatars.githubusercontent.com/u/158505616?v=4" width="50" height="50" alt="image" style="margin-right: 50px;"/></a>
   <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/IEtub3dsZWRnZSA8Lz4gU2tpbGxz/karasha.png" width="250" alt="Knowledge & Skills"/>
 </p>
 
