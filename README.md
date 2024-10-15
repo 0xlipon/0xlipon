@@ -3,6 +3,9 @@
                                                                                             
 <p align="left">IT Professional with strong interest in ethical hacking, penetration testing, vulnerability analysis, and network security. Hard-working, energetic, personable, and technical-minded individual. Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly. 🌐 Let's connect to explore collaboration opportunities and fortify your digital security. 🚀</p>
 
+<br>
+<br>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Hacker" alt="Typing SVG" />
@@ -10,6 +13,9 @@
 </div>
 <!--
 <h3 align="center">On a Journey to become a great human being...<p align="right"></h3> -->
+
+<br>
+<br>
 
 <!-- Typing SVG -->
   <img src="https://avatars.githubusercontent.com/u/158505616?v=4" align="left" width="50" height="50" alt="image"/>
