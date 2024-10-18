@@ -1,6 +1,6 @@
 [![](https://raw.githubusercontent.com/0xlipon/0xlipon/master/profile.gif)](https://www.linkedin.com/in/0xlipon/)<!-- If you want the template for my gif, email me! -->
                                                                                             
-<p align="left">IT Professional with strong interest in ethical hacking, penetration testing, vulnerability analysis, and network security. Hard-working, energetic, personable, and technical-minded individual. Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly. 🌐 Let's connect to explore collaboration opportunities and fortify your digital security. 🚀</p>
+<p align="center">IT Professional with strong interest in ethical hacking, penetration testing, vulnerability analysis, and network security. Hard-working, energetic, personable, and technical-minded individual. Possess exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly. 🌐 Let's connect to explore collaboration opportunities and fortify your digital security. 🚀</p>
 
 <br>
 <br>
